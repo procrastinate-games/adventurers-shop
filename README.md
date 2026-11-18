@@ -163,3 +163,7 @@ npm run test:theme
 Use **EN / RU** in the header to switch between English and Russian without restarting. The choice is saved separately from game progress. Both languages cover goods, events, customer messages, reports, help and the shop scene. Russian remains the default for existing players.
 
 `TEST_URL=http://localhost:5173 npm run test:language` checks English at mobile and desktop widths, language persistence, switching during paused trading, dialogs and reports. The translation catalog is `src/en.json`; game saves retain their original format.
+
+## Play more browser games
+
+Find this game and the rest of the collection at [Games to Procrastinate To](https://procrastinate.games/).
